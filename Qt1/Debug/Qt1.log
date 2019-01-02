@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/12/4 23:28:12。
+     1>项目“C:\Users\59232\Desktop\c++\实验报告\Qt1(1)\Qt1\Qt1.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\59232\Desktop\sf\Win32\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\Qt1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         E:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\59232\Desktop\sf\Win32\Debug\\Qt1.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Qt1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\59232\Desktop\sf\Win32\Debug\Qt1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\59232\Desktop\sf\Win32\Debug\Qt1.lib" /MACHINE:X86 Debug\circle.obj
+         Debug\moc_qt1.obj
+         Debug\qrc_qt1.obj
+         Debug\geta.obj
+         Debug\getp.obj
+         Debug\grassprice.obj
+         Debug\judge.obj
+         Debug\main.obj
+         Debug\poolprice.obj
+         Debug\qt1.obj
+         Debug\square.obj
+         Debug\triangle.obj
+         Qt1.vcxproj -> C:\Users\59232\Desktop\sf\Win32\Debug\Qt1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\59232\Desktop\sf\Win32\Debug\\Qt1.exe;#1" /manifest Debug\Qt1.exe.intermediate.manifest
+         
+     1>mt.exe : general error c101008d: Failed to write the updated manifest to the resource of file "C:\Users\59232\Desktop\sf\Win32\Debug\\Qt1.exe". R]?n
+         
+     1>已完成生成项目“C:\Users\59232\Desktop\c++\实验报告\Qt1(1)\Qt1\Qt1.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.14
